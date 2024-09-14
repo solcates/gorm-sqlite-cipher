@@ -1,4 +1,4 @@
-module github.com/jackfr0st13/gorm-sqlite-cipher
+module github.com/solcates/gorm-sqlite-cipher
 
 go 1.22.6
 
