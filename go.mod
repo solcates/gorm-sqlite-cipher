@@ -1,6 +1,6 @@
 module github.com/jackfr0st13/gorm-sqlite-cipher
 
-go 1.15
+go 1.22.6
 
 require (
 	github.com/mutecomm/go-sqlcipher/v4 v4.4.2
